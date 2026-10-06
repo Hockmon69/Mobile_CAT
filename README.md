@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SWE 3409 Mobile Application Development · CAT 1 (practical) · Group NN
 
 **INES-Ruhengeri · Department of Computer Science · Lecturer: Clement Munyentwari · 7 October 2026**
@@ -87,3 +88,7 @@ On GitHub: **Compare & pull request** → template → a teammate as **Reviewer*
 | `team/<username>.md` filled in | 5 | team folder |
 | Group phone demo: the mobile part | 20 | live, on the phone |
 | You explain or change a line of your own file | 10 | live, at the demo |
+=======
+# Mobile_CAT
+Mobile application CAT 
+>>>>>>> 1b90faf2fadcea09a4a302228788398efea2696e
